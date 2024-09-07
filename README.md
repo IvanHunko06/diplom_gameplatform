@@ -2,4 +2,4 @@
 "Разработка игровой платформы для соревнования игроков."
 
 ## 2. UseCase диаграмма.
-![alt text](image/GamePlatform UseCase.png)
+![alt text](image/GamePlatformUseCase.png)
