@@ -1,1 +1,5 @@
-# diplom_gameplatform
+## 1. Тема.
+"Разработка игровой платформы для соревнования игроков."
+
+## 2. UseCase диаграмма.
+![alt text](img/GamePlatform UseCase.png)
