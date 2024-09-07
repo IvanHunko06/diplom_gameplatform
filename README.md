@@ -8,12 +8,12 @@
 ![alt text](image/deploymentDiagramm.png)
 
 ## 4. Используемые технологии.
--Языки
-  -C#
-  -JavaScript
--Фреймворки/библиотеки
-  -React
-  -ASP Net
-  -Entity Framework
+- Языки
+  - C#
+  - JavaScript
+- Фреймворки/библиотеки
+  - React
+  - ASP Net
+  - Entity Framework
 - Инструменты разработки
   - GIT
